@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CB8F4B61-00E2-4191-A7EA-B50D2133A09E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Calculator.WinApp</RootNamespace>
+    <AssemblyName>Calculator.WinApp</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.Unity">
+      <HintPath>..\packages\Unity.3.5.1404.0\lib\net45\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Configuration">
+      <HintPath>..\packages\Unity.3.5.1404.0\lib\net45\Microsoft.Practices.Unity.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.RegistrationByConvention">
+      <HintPath>..\packages\Unity.3.5.1404.0\lib\net45\Microsoft.Practices.Unity.RegistrationByConvention.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConsoleCalculator.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Calculator.BusinessInterfaces\Calculator.BusinessInterfaces.csproj">
+      <Project>{64782dd6-27ae-4762-b80f-8ceae039bb2e}</Project>
+      <Name>Calculator.BusinessInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Calculator.BussinesModel\Calculator.BusinessLayer.csproj">
+      <Project>{88d8b140-6e51-4156-843d-3538c7aa8a73}</Project>
+      <Name>Calculator.BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Calculator.DataAccessInterfaces\Calculator.DataAccessInterfaces.csproj">
+      <Project>{bb4b23c2-94c7-42c3-828b-57585773192b}</Project>
+      <Name>Calculator.DataAccessInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Calculator.Repositories\Calculator.DataAccess.csproj">
+      <Project>{b6a4fa45-7969-4289-aa37-6270bef3a1e5}</Project>
+      <Name>Calculator.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Calculator.ServiceInterfaces\Calculator.ServiceInterfaces.csproj">
+      <Project>{dabe5f77-45ad-4743-935c-d546d17b2d5c}</Project>
+      <Name>Calculator.ServiceInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Calculator.Service\Calculator.LocalService.csproj">
+      <Project>{218694c7-91c9-4268-b13c-f759845830d2}</Project>
+      <Name>Calculator.LocalService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Calculator.Utilities\Calculator.Common.csproj">
+      <Project>{fff4b516-9926-4f64-b644-2bb081f3e360}</Project>
+      <Name>Calculator.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

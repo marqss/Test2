@@ -1,0 +1,13 @@
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Utilities\bin\Debug\Calculator.Utilities.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Utilities\bin\Debug\Calculator.Utilities.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Utilities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Utilities\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Utilities\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Utilities\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Utilities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Utilities\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Utilities\obj\Debug\Calculator.Common.csprojResolveAssemblyReference.cache
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Utilities\obj\Debug\Calculator.Utilities.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Utilities\obj\Debug\Calculator.Utilities.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Utilities\bin\Debug\NLog.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Utilities\bin\Debug\NLog.xml

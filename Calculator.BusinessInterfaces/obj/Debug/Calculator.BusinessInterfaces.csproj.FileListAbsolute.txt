@@ -1,0 +1,4 @@
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.BusinessInterfaces\bin\Debug\Calculator.BusinessInterfaces.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.BusinessInterfaces\bin\Debug\Calculator.BusinessInterfaces.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.BusinessInterfaces\obj\Debug\Calculator.BusinessInterfaces.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.BusinessInterfaces\obj\Debug\Calculator.BusinessInterfaces.pdb

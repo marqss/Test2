@@ -1,0 +1,4 @@
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.ServiceInterfaces\bin\Debug\Calculator.ServiceInterfaces.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.ServiceInterfaces\bin\Debug\Calculator.ServiceInterfaces.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.ServiceInterfaces\obj\Debug\Calculator.ServiceInterfaces.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.ServiceInterfaces\obj\Debug\Calculator.ServiceInterfaces.pdb

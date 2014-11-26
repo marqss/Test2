@@ -1,0 +1,11 @@
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Repositories\obj\Debug\Calculator.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Repositories\bin\Debug\Calculator.DataAccessInterfaces.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Repositories\bin\Debug\EntityFramework.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Repositories\bin\Debug\Calculator.DataAccessInterfaces.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Repositories\bin\Debug\EntityFramework.xml
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Repositories\bin\Debug\Storage.sdf
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Repositories\bin\Debug\Calculator.DataAccess.dll.config
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Repositories\bin\Debug\Calculator.DataAccess.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Repositories\bin\Debug\Calculator.DataAccess.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Repositories\obj\Debug\Calculator.DataAccess.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Repositories\obj\Debug\Calculator.DataAccess.pdb

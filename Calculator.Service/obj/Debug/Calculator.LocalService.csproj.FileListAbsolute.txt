@@ -1,0 +1,9 @@
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Service\bin\Debug\Calculator.ServiceInterfaces.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Service\bin\Debug\Calculator.ServiceInterfaces.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Service\obj\Debug\Calculator.LocalService.csprojResolveAssemblyReference.cache
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Service\bin\Debug\Calculator.LocalService.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Service\bin\Debug\Calculator.LocalService.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Service\obj\Debug\Calculator.LocalService.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Service\obj\Debug\Calculator.LocalService.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Service\bin\Debug\Calculator.BusinessInterfaces.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.Service\bin\Debug\Calculator.BusinessInterfaces.pdb

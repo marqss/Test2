@@ -1,0 +1,9 @@
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.BussinesModel\obj\Debug\Calculator.BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.BussinesModel\bin\Debug\Calculator.BusinessInterfaces.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.BussinesModel\bin\Debug\Calculator.DataAccessInterfaces.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.BussinesModel\bin\Debug\Calculator.BusinessInterfaces.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.BussinesModel\bin\Debug\Calculator.DataAccessInterfaces.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.BussinesModel\bin\Debug\Calculator.BusinessLayer.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.BussinesModel\bin\Debug\Calculator.BusinessLayer.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.BussinesModel\obj\Debug\Calculator.BusinessLayer.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\Calculator.BussinesModel\obj\Debug\Calculator.BusinessLayer.pdb

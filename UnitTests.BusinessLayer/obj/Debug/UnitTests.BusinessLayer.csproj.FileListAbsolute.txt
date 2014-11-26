@@ -1,0 +1,13 @@
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTests.BusinessLayer\bin\Debug\UnitTests.BusinessLayer.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTests.BusinessLayer\bin\Debug\UnitTests.BusinessLayer.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTests.BusinessLayer\bin\Debug\Calculator.BusinessInterfaces.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTests.BusinessLayer\bin\Debug\Calculator.BusinessLayer.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTests.BusinessLayer\bin\Debug\Calculator.DataAccessInterfaces.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTests.BusinessLayer\bin\Debug\Moq.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTests.BusinessLayer\bin\Debug\Calculator.BusinessInterfaces.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTests.BusinessLayer\bin\Debug\Calculator.BusinessLayer.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTests.BusinessLayer\bin\Debug\Calculator.DataAccessInterfaces.pdb
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTests.BusinessLayer\bin\Debug\Moq.xml
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTests.BusinessLayer\obj\Debug\UnitTests.BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTests.BusinessLayer\obj\Debug\UnitTests.BusinessLayer.dll
+c:\users\localadmin\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTests.BusinessLayer\obj\Debug\UnitTests.BusinessLayer.pdb
